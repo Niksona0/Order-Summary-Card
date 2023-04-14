@@ -19,7 +19,7 @@ body {
 }
 
 .bg-img {
-    width: 2000px;
+    width: 100vw;
     height: 400px;
     position: absolute;
     top: 0;
